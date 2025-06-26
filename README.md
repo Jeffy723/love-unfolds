@@ -10,7 +10,7 @@ Theme: **Love ❤️**
 - Soft pastel gradients and heart-themed design
 
 ## Live Site:
-[Link to Live Site](https://YOUR_GITHUB_USERNAME.github.io/love-unfolds/)
+[Link to Live Site](https://Jeffy723.github.io/love-unfolds/)
 
 ## View Source:
-[GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME/love-unfolds)
+[GitHub Repository](https://github.com/Jeffy723/love-unfolds)
