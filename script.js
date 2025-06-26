@@ -9,4 +9,10 @@ const quotes = [
 function showQuote() {
   const randomIndex = Math.floor(Math.random() * quotes.length);
   document.getElementById('quote').textContent = quotes[randomIndex];
+
+  const imageElements = document.querySelectorAll('.quote-image');
+  imageElements.forEach(function(imgEl, index) {
+    const randomNum = Math.floor(Math.random() * 1000) + index;
+    imgEl.src = `https://picsum.photos/400/300?random=${randomNum}`;
+  });
 }
