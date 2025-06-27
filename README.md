@@ -21,7 +21,7 @@ This project is a visual and emotional celebration of love — from touching quo
 
 > *(Add a screenshot or GIF of your site here — for example:)*
 
-![Screenshot of Love Unfolds Website]("C:\Users\JEFFY K JOSE\OneDrive\Pictures\Screenshots\Screenshot (83).png")
+![Screenshot of Love Unfolds Website](assets/preview.png)
 
 ---
 
